@@ -1,0 +1,27 @@
+*{
+    font-family: 'Bebas Neue', cursive;
+    font-size: large;
+}
+
+
+
+body{
+    min-height: 100vh;
+    background: url(./img/joanna-kosinska-1_CMoFsPfso-unsplash.jpg) no-repeat;
+    background-size: cover;
+    color:black;
+}
+
+form{
+    max-width: 800px;
+    margin-left: 400px;
+}
+
+
+    h1{
+        margin-left: 400px;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        font-size: 50px;
+    }
