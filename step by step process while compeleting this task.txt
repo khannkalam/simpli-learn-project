@@ -14,8 +14,8 @@ technologies used in completing this project :-
                                        STEPS TO COMPLETE THIS PROJECT
 
 
-        first i make a empty folder for my project then i opend git bash in this folder then i use git for making a repository to track my changes 
-        in my files then i created 6 empty html files in this repository for my homepage, about us page, contact page , blog page then i plan my 
+        first i make a empty folder for my project then i opend git bash in this folder then i use git for making a repository to track changes 
+        in my files then i created empty html files in this repository for my homepage, about us page, contact page , blog page then i plan my 
         website design how it should look and feel after planing i stated coding for my home page, i used bootstrap for making navigation bar for 
         home in which there are 4 links for homepage, about us page, contact page and for blog page then i used a full size background image to 
         improve looks of my home page then i used header and paragrapgh to add some text on homepage. i used html css and bootstaro to complete 
@@ -29,7 +29,16 @@ technologies used in completing this project :-
         this page is about giving some information about our future palns and scope and currentrly how we are going and growing. in last i have made
         a footer for our copyright and privacy terms. i make use of bootstap and html for making this page
 
-        then i start coding for my third page that is contact page in which i used same navigation bar which was made for homepage 
+        then i start coding for my third page that is contact page in which i used same navigation bar which was made for homepage. after that i
+        made a contact form so that if anyone has query, they can contact us i have used a background image to improve our contact page look i have 
+        used bootstap and css to make this form
+
+        then i start coding for my fourth and last page that has two sections one for newsletter and second one is for articles. in both of them i have
+        used same navigation bar. for newsletter page i have used html and css. and for the article page i have used bootstrap css and java script i have 
+        used java script so that experts can post news or anthing realeted to company or ongoing project.
+
+
+                                                               
 
             
 
