@@ -1,2 +1,2 @@
-*.addBlog
-*.blog
+*log
+dir/
