@@ -37,6 +37,8 @@ technologies used in completing this project :-
         used same navigation bar. for newsletter page i have used html and css. and for the article page i have used bootstrap css and java script i have 
         used java script so that experts can post news or anthing realeted to company or ongoing project.
 
+        i have ignored 2 files addBlog file and blog file when files pushing to github
+
 
                                                                
 
