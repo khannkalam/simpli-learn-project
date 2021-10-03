@@ -1,0 +1,26 @@
+.card{
+    width: 20px;
+    margin: 0px 20px;
+    height: 10px;
+    margin-top: 30px;
+}
+
+
+/* h1{
+    display: flex;
+    text-align: center;
+    justify-content: center;
+    margin-top: 10px;
+} */
+
+body{
+    background-color: white;
+
+}
+
+#modal{
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    margin-top: 25px;
+}

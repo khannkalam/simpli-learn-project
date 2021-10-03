@@ -1,0 +1,35 @@
+                                            
+                                      
+                                     FULL STACK JAVA SCRIPT PROJECT
+
+technologies used in completing this project :-
+1.visual studio code
+2.html
+3.css
+4.bootstap
+5.java script
+6.git
+7.git hub
+
+                                       STEPS TO COMPLETE THIS PROJECT
+
+
+        first i make a empty folder for my project then i opend git bash in this folder then i use git for making a repository to track my changes 
+        in my files then i created 6 empty html files in this repository for my homepage, about us page, contact page , blog page then i plan my 
+        website design how it should look and feel after planing i stated coding for my home page, i used bootstrap for making navigation bar for 
+        home in which there are 4 links for homepage, about us page, contact page and for blog page then i used a full size background image to 
+        improve looks of my home page then i used header and paragrapgh to add some text on homepage. i used html css and bootstaro to complete 
+        my homepage.
+
+        
+        then i start coding for my second page that is about us page in which i used same navigation bar which was made for homepage then i made
+        3 containers for 3 different sections. first section is about how it all stared that is giving us some information about how our company 
+        is stated i have used a image and some text in this container then i made a second container that is about in which year our company is
+        started and i make use of same technique which is used for making first container. then i make third and last container for about us page 
+        this page is about giving some information about our future palns and scope and currentrly how we are going and growing. in last i have made
+        a footer for our copyright and privacy terms. i make use of bootstap and html for making this page
+
+        then i start coding for my third page that is contact page in which i used same navigation bar which was made for homepage 
+
+            
+
